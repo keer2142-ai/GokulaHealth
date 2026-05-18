@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gokula-Health</string>
+    <string name="total_cattle">Total Cattle</string>
+    <string name="pending_vaccinations">Pending Vaccinations</string>
+    <string name="near_heat">Near Heat</string>
+    <string name="add_cattle">Add Cattle</string>
+    <string name="milk_entry">Milk Entry</string>
+    <string name="vaccination">Vaccination</string>
+    <string name="heat_cycle">Heat Cycle</string>
+    <string name="health_passport">Health Passport</string>
+    <string name="ai_advisory">AI Advisory</string>
+</resources>
